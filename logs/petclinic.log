@@ -1,0 +1,103 @@
+2026-07-31 04:13:27.761  INFO --- [nio-8080-exec-4] o.s.s.petclinic.owner.OwnerController    : Searching owners by lastName='', page=1
+2026-07-31 04:13:27.814  INFO --- [nio-8080-exec-4] o.s.s.petclinic.owner.OwnerController    : Found 10 owner(s) for lastName=''
+2026-07-31 04:13:29.865 DEBUG --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=1
+2026-07-31 04:13:29.881 DEBUG --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=1: George 1 Franklin
+2026-07-31 04:13:32.809  INFO --- [nio-8080-exec-7] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-07-31 04:13:32.901 DEBUG --- [nio-8080-exec-7] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-07-31 04:13:34.912  INFO --- [nio-8080-exec-3] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=2
+2026-07-31 04:13:34.937 DEBUG --- [nio-8080-exec-3] o.s.samples.petclinic.vet.VetController  : Returning 1 vets (total=6) for page=2
+2026-07-31 04:13:36.807  INFO --- [nio-8080-exec-8] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-07-31 04:13:36.817 DEBUG --- [nio-8080-exec-8] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-07-31 04:13:38.858  INFO --- [io-8080-exec-10] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=2
+2026-07-31 04:13:38.862 DEBUG --- [io-8080-exec-10] o.s.samples.petclinic.vet.VetController  : Returning 1 vets (total=6) for page=2
+2026-07-31 04:13:42.215  INFO --- [nio-8080-exec-1] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-07-31 04:13:42.220 DEBUG --- [nio-8080-exec-1] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-07-31 05:29:31.535  INFO --- [nio-8080-exec-8] o.s.s.petclinic.owner.OwnerController    : Searching owners by lastName='', page=1
+2026-07-31 05:29:31.608  INFO --- [nio-8080-exec-8] o.s.s.petclinic.owner.OwnerController    : Found 10 owner(s) for lastName=''
+2026-07-31 05:33:22.069 DEBUG --- [nio-8080-exec-9] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=1
+2026-07-31 05:33:22.074 DEBUG --- [nio-8080-exec-9] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=1: George 1 Franklin
+2026-07-31 05:33:26.634  INFO --- [nio-8080-exec-6] o.s.s.petclinic.owner.OwnerController    : Attempting to update owner id=1
+2026-07-31 05:33:26.668  INFO --- [nio-8080-exec-6] o.s.s.petclinic.owner.OwnerController    : Owner id=1 updated: George 1s Franklin
+2026-07-31 05:33:26.695 DEBUG --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=1
+2026-07-31 05:33:26.707 DEBUG --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=1: George 1s Franklin
+2026-07-31 06:24:43.019  INFO --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Searching owners by lastName='', page=1
+2026-07-31 06:24:43.042  INFO --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Found 10 owner(s) for lastName=''
+2026-07-31 06:24:44.542 DEBUG --- [nio-8080-exec-4] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=2
+2026-07-31 06:24:44.553 DEBUG --- [nio-8080-exec-4] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=2: Betty Davis
+2026-07-31 07:05:59.848 DEBUG --- [nio-8080-exec-1] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=1
+2026-07-31 07:05:59.860 DEBUG --- [nio-8080-exec-1] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=1: George 1s Franklin
+2026-07-31 07:06:05.080  INFO --- [nio-8080-exec-6] o.s.s.petclinic.owner.OwnerController    : Searching owners by lastName='', page=1
+2026-07-31 07:06:05.103  INFO --- [nio-8080-exec-6] o.s.s.petclinic.owner.OwnerController    : Found 10 owner(s) for lastName=''
+2026-07-31 07:06:07.888 DEBUG --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=1
+2026-07-31 07:06:07.902 DEBUG --- [nio-8080-exec-5] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=1: George 1s Franklin
+2026-07-31 07:06:17.416  INFO --- [nio-8080-exec-9] o.s.s.petclinic.owner.OwnerController    : Attempting to update owner id=1
+2026-07-31 07:06:17.464  INFO --- [nio-8080-exec-9] o.s.s.petclinic.owner.OwnerController    : Owner id=1 updated: George demo Franklin
+2026-07-31 07:06:17.492 DEBUG --- [nio-8080-exec-7] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=1
+2026-07-31 07:06:17.504 DEBUG --- [nio-8080-exec-7] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=1: George demo Franklin
+2026-07-31 07:28:02.762  INFO --- [nio-8080-exec-8] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-07-31 07:28:02.767 DEBUG --- [nio-8080-exec-8] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-07-31 07:28:05.448  INFO --- [nio-8080-exec-1] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=2
+2026-07-31 07:28:05.449 DEBUG --- [nio-8080-exec-1] o.s.samples.petclinic.vet.VetController  : Returning 1 vets (total=6) for page=2
+2026-07-31 07:28:07.070  INFO --- [nio-8080-exec-2] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-07-31 07:28:07.072 DEBUG --- [nio-8080-exec-2] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-07-31 07:28:08.621  INFO --- [nio-8080-exec-6] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=2
+2026-07-31 07:28:08.623 DEBUG --- [nio-8080-exec-6] o.s.samples.petclinic.vet.VetController  : Returning 1 vets (total=6) for page=2
+2026-07-31 09:16:38.944  INFO --- [ionShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-31 09:16:38.954  INFO --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-31 09:16:38.979  INFO --- [ionShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-07-31 09:16:38.996  INFO --- [ionShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-07-31 09:16:39.004  INFO --- [ionShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-09-10 09:46:09.422  INFO --- [           main] o.s.s.petclinic.PetClinicApplication     : Starting PetClinicApplication v4.0.0-SNAPSHOT using Java 17.0.20 with PID 1 (/app/app.jar started by root in /app)
+2026-09-10 09:46:09.439 DEBUG --- [           main] o.s.s.petclinic.PetClinicApplication     : Running with Spring Boot v4.1.0, Spring v7.0.8
+2026-09-10 09:46:09.442  INFO --- [           main] o.s.s.petclinic.PetClinicApplication     : The following 1 profile is active: "mysql"
+2026-09-10 09:46:09.822  INFO --- [kground-preinit] o.h.validator.internal.util.Version      : HV000001: Hibernate Validator 9.1.0.Final
+2026-09-10 09:46:11.297  INFO --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-09-10 09:46:11.401  INFO --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 78 ms. Found 3 JPA repository interfaces.
+2026-09-10 09:46:13.428  INFO --- [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-09-10 09:46:13.465  INFO --- [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-09-10 09:46:13.475  INFO --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-10 09:46:13.477  INFO --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-09-10 09:46:13.565  INFO --- [           main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 3997 ms
+2026-09-10 09:46:14.008  INFO --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-09-10 09:46:14.699  INFO --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@143413cd
+2026-09-10 09:46:14.707  INFO --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-09-10 09:46:15.483  INFO --- [           main] org.hibernate.orm.jpa                    : HHH008540: Processing PersistenceUnitInfo [name: default]
+2026-09-10 09:46:15.620  INFO --- [           main] org.hibernate.orm.core                   : HHH000001: Hibernate ORM core version 7.4.1.Final
+2026-09-10 09:46:16.839  INFO --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-09-10 09:46:17.005  INFO --- [           main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [jdbc:mysql://mysql/petclinic]
+	Database driver: MySQL Connector/J
+	Database dialect: MySQLDialect
+	Database version: 9.7.2
+	Default catalog/schema: petclinic/undefined
+	Autocommit mode: undefined/unknown
+	Isolation level: REPEATABLE_READ [default REPEATABLE_READ]
+	JDBC fetch size: none
+	Pool: DataSourceConnectionProvider
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-09-10 09:46:18.429  INFO --- [           main] org.hibernate.orm.core                   : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-09-10 09:46:18.441  INFO --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-09-10 09:46:18.591  INFO --- [           main] o.s.d.j.r.query.QueryEnhancerFactories   : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-09-10 09:46:20.628  INFO --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2026-09-10 09:46:20.771  INFO --- [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-09-10 09:46:20.807  INFO --- [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-09-10 09:46:20.823  INFO --- [           main] o.s.s.petclinic.PetClinicApplication     : Started PetClinicApplication in 12.66 seconds (process running for 13.805)
+2026-09-10 09:47:18.512  INFO --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-10 09:47:18.520  INFO --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-10 09:47:18.541  INFO --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2026-09-10 09:48:49.944  INFO --- [nio-8080-exec-8] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-09-10 09:48:50.262 DEBUG --- [nio-8080-exec-8] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-09-10 09:49:25.041  INFO --- [nio-8080-exec-7] o.s.samples.petclinic.vet.VetController  : Fetching vet list page=1
+2026-09-10 09:49:25.047 DEBUG --- [nio-8080-exec-7] o.s.samples.petclinic.vet.VetController  : Returning 5 vets (total=6) for page=1
+2026-09-10 09:51:29.899  INFO --- [io-8080-exec-10] o.s.s.petclinic.owner.OwnerController    : Attempting to create owner: Swaminath Shirsath
+2026-09-10 09:51:30.023  INFO --- [io-8080-exec-10] o.s.s.petclinic.owner.OwnerController    : Owner created with id=11: Swaminath Shirsath
+2026-09-10 09:51:30.093 DEBUG --- [nio-8080-exec-9] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=11
+2026-09-10 09:51:30.104 DEBUG --- [nio-8080-exec-9] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=11: Swaminath Shirsath
+2026-09-10 09:52:36.587  INFO --- [nio-8080-exec-6] o.s.s.petclinic.owner.PetController      : Attempting to add pet 'Nancy' for owner id=11
+2026-09-10 09:52:36.664  INFO --- [nio-8080-exec-6] o.s.s.petclinic.owner.PetController      : Pet 'Nancy' added for owner id=11
+2026-09-10 09:52:36.691 DEBUG --- [nio-8080-exec-3] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=11
+2026-09-10 09:52:36.706 DEBUG --- [nio-8080-exec-3] o.s.s.petclinic.owner.OwnerController    : Returning details for owner id=11: Swaminath Shirsath
+2026-09-10 09:53:38.400  INFO --- [nio-8080-exec-2] o.s.s.petclinic.owner.VisitController    : Attempting to book visit for pet id=14 of owner id=11
+2026-09-10 09:53:38.436  INFO --- [nio-8080-exec-2] o.s.s.petclinic.owner.VisitController    : Visit booked on 2026-09-11 for pet id=14 of owner id=11
+2026-09-10 09:53:38.467 DEBUG --- [nio-8080-exec-8] o.s.s.petclinic.owner.OwnerController    : Fetching owner details for id=11
